@@ -1,15 +1,15 @@
-from predictor import predict_speaker
+import predictor
 import sys
 
 try:
-	text = sys.argv[1]
+    text = sys.argv[1]
 except IndexError:
-	f = open('input.txt')
-	text = f.read()
-	text = text.strip()
-	f.close()
+    f = open('input.txt')
+    text = f.read()
+    text = text.strip()
+    f.close()
 
 if len(text) < 50:
-	print 'we need more text to make better prediction :(. try again'
-else: 
-	print predict_speaker(text)
+    print 'we need more text to make better prediction :(. try again'
+else:
+    print predictor.predict_speaker(text)

@@ -1,4 +1,3 @@
-
 from predictor import predict_speaker
 import pandas as pd
 import sys 
@@ -10,4 +9,4 @@ data = pd.read_csv(path)
 
 text = data[col_to_predict].values
 print 'it can take a long time...'
-predict_speaker(text,True)
+predict_speaker(text, True)
