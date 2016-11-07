@@ -12,7 +12,7 @@
  So you can play with it two ways:
  <!-->![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/sublime.jpg)
  ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish.jpg) 
- ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish2.jpg)<!-->
+ ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish2.jpg)
 
 
 
