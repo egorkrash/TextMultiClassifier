@@ -8,12 +8,7 @@
  * goodmodel1_weights.h5 - just a weights with which I achieved good accuracy (~0.73).
  
 2. App
- * make_prediction.py - script which takes text from input.txt and uses it to predict speaker. It also can take text as system argument.
- So you can play with it two ways:
- [comment]: <> (![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/sublime.jpg))
- ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish.jpg) 
- ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish2.jpg)
+ * make_prediction.py - script which takes text from input.txt and uses it to predict speaker. It also can take text as system argument so you can play with it two ways
 
 
-
-I'll make better description and quality of images later =)
+I'll make better description as soon as possible  =)
