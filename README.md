@@ -10,5 +10,7 @@
 2. App
  * make_prediction.py - script which takes text from input.txt and uses it to predict speaker. It also can take text as system argument.
  
+ 
+![alt tag](https://vk.com/album80870331_234325173?z=photo80870331_441658877%2Falbum80870331_234325173)
 
 I'll make better description later =)
