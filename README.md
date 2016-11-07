@@ -10,10 +10,8 @@
 2. App
  * make_prediction.py - script which takes text from input.txt and uses it to predict speaker. It also can take text as system argument.
  So you can play with it two ways:
- 1.
-  ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/sublime.jpg)
-  ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish.jpg)
- 2. 
+ ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/sublime.jpg)
+ ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish.jpg) 
  
 
 I'll make better description later =)
