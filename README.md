@@ -12,6 +12,8 @@
  So you can play with it two ways:
  ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/sublime.jpg)
  ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish.jpg) 
- 
+ ![alt tag](https://github.com/EgorKrash/TextMultiClassifier/blob/master/Images/fish2.jpg)
 
-I'll make better description later =)
+
+
+I'll make better description and quality of images later =)
