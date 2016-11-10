@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from keras.preprocessing.text import Tokenizer
+import pickle
 
 EMBEDDING_DIM = 100
 MAX_SEQ_LEN = 255
@@ -31,3 +32,9 @@ for index, text in enumerate(data.Text.values):
 
 tokenizer = Tokenizer(nb_words=9579)
 tokenizer.fit_on_texts(texts)
+
+
+# save tokenizer and label encoder
+
+pickle.dump(tokenizer, open('tokenizer.pkl', 'wb'))
+pickle.dump(LE, open('label_encoder.pkl', 'wb'))
