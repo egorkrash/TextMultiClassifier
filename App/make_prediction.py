@@ -1,4 +1,3 @@
-import predictor
 import sys
 
 try:
@@ -12,4 +11,5 @@ except IndexError:
 if len(text) < 50:
     print 'we need more text to make better prediction :(. try again'
 else:
+    import predictor
     print predictor.predict_speaker(text)
