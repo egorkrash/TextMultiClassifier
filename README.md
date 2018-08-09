@@ -9,6 +9,5 @@
  
 2. App
  * **make_prediction.py** - script which takes text from **input.txt** and uses it to predict speaker. It also can take text as system argument so you can play with it two ways.
- ![](/Images/fish.jpg)
  * **predict_for_csv.py** - makes predictions for the whole dataset by given path of csv file and the name of column containing texts.
  
